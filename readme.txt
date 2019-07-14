@@ -14,9 +14,9 @@ Query Strings Remover removes query strings from your static resources like CSS 
 
 After installing Query Strings Remover sure empty you cached resources in order to see the magic of this plugin.
 
-If you have any problem and want to contribute any suggetion please contact us on https://www.atulhost.com/query-strings-remover link.
+If you have any problem and want to contribute any suggetion please contact us on https://atulhost.com/query-strings-remover link.
 
-Contact Author at https://www.atulhost.com for more details.
+Contact Author at https://atulhost.com for more details.
 
 == Installation ==
 1. Upload the `query-strings-remover` folder to the `/wp-content/plugins/` directory
